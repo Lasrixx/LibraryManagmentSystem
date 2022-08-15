@@ -1,0 +1,26 @@
+1, Fantasy, Harry Potter and the Order of the Phoenix, JK Rowling, 24/6/2010, abht
+2, Travel, Lonely Planet Greece, Simon Richmond, 17/8/2015, 0
+3, Sci-Fi, Dune, Frank Herbert, 4/5/2019, plae
+4, Children's, The Ugly Duckling, Ladybird, 19/1/2004, 0
+5, Fantasy, The Lord of the Rings, JRR Tolkien, 13/9/1996, plae
+6, Horror, Frankenstein, Mary Shelley, 29/11/2012, enrt
+7, Fantasy, The Lord of the Rings, JRR Tolkien,  27/2/2013, trln
+8, Sci-Fi, Leviathan Wakes, James SA Corey, 10/5/2017, scei
+9, Children's, The Gruffalo, Julia Donaldson, 6/4/2008, 0
+10, Fantasy, Harry Potter and the Order of the Phoenix, JK Rowling, 24/6/2010, 0
+11, Horror, The Haunting of Hill House, Shirley Jackson, 20/12/2020, psyt
+12, Travel, The Travel Book, Lonely Planet, 17/11/2020, 0
+13, Travel, The Travel Book, Lonely Planet, 17/11/2021, 0
+14, Travel, The Travel Book, Lonely Planet, 17/11/2021, trev
+15, Fantasy, Good Omens, Terry Pratchett, 13/11/2019, ccoo
+16, Horror, Interview with the Vampire, Anne Rice, 24/11/2000, prel
+17, Horror, It, Stephen King, 23/8/2016, 0
+18, Children's, The Very Hungry Caterpillar, Eric Carle, 15/7/2009, chal
+19, Sci-Fi, The Martian, Andy Weir, 30/6/2018, 0
+20, Travel, DK Eyewitness Egypt, DK Eyewitness, 5/9/2016, tpel
+21, Sci-Fi, Journey to the Centre of the Earth, Jules Verne, 7/7/1997, 0
+22, Fantasy, The Crimson Campaign, Brain McClellan, 10/9/2011, coai
+23, Children's, Little Rabbit Foo Foo, Michael Rosen, 4/11/2003, ypls
+24, Travel, Moon USA National Parks, Becky Lomax, 19/3/2017, 0
+25, Fantasy, Harry Potter and the Half Blood Prince, JK Rowling, 11/12/2021, 0
+26, Travel, The North Coast 500 Guide Book, Charles Tait, 30/6/2021, 0
