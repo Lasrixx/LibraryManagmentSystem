@@ -4,7 +4,8 @@ System that allows a user to checkout and return library books, and creates reco
 This project was coursework for my Computer Science degree at Loughborough University. I recieved a first (95%) for it.
 
 The user can search through the database of books (stored in a .txt file) and also filter their search.
-![image](https://user-images.githubusercontent.com/109162139/184636193-f09ab976-c3d5-4f1b-8956-c1dbcaa72489.png)
+
+https://user-images.githubusercontent.com/109162139/184647620-cd688cab-6e5a-4815-ac44-4d2bf406647d.mp4
 
 The user can return any checked out books from the library, and check out any available books.
 ![image](https://user-images.githubusercontent.com/109162139/184636544-6503e21c-0353-4af8-aaf6-c19689f7bfd1.png)
